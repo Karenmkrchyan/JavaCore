@@ -12,10 +12,10 @@ public class FigurePainter {
             System.out.println();
             System.out.println();
             {
-                for (int i = 5; i > 0; i--) {
-                    for (int j = 5; j < i; j++)
-                        System.out.println("*");
+                for (i = 5; i > 0; i--) {
+                    for (int j = 5; j < i; j++) ;
 
+                    System.out.println("*");
                 }
                 System.out.println("*");
 
