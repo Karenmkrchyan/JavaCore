@@ -1,4 +1,4 @@
-package homework1;
+package homework1.arreyutil;
 
 public class ArreyUtil {
     public static void main(String[] args) {
