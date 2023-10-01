@@ -1,5 +1,7 @@
 package classwork.chaprar2;
 
+import homework1.stack.Stack;
+
 public class TestStack {
     public static void main(String[] args) {
         Stack mystack1 = new Stack();
