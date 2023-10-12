@@ -7,7 +7,7 @@ public class EmployeeStorage {
     public void print() {
         for (int i = 0; i < size; i++) {
 
-            System.out.println(employees[i].getEmloyeID() + " " + employees[i].getCompany() + " " + employees[i].getName() + " " + employees[i].getSurname() + " " + employees[i].getPosition());
+            System.out.println(employees[i]);
         }
     }
 
@@ -36,3 +36,7 @@ public class EmployeeStorage {
 
 
 }
+
+
+
+
